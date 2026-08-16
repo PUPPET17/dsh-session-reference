@@ -28,6 +28,7 @@
     "lib/client.js.map",
     "cordis.patch.yml",
     "README.md",
+    "README.zh.md",
     "LICENSE"
   ],
   "scripts": {

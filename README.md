@@ -1,5 +1,7 @@
 # dsh-session-reference
 
+[English](README.md) | [简体中文](README.zh.md)
+
 An independently installable DeepSeek Harness bundle for read-only cross-session references.
 
 The package owns the complete feature:
@@ -14,7 +16,7 @@ The DeepSeek Harness repository supplies only generic input-source, reference-pr
 
 Requires DeepSeek Harness `0.1.0-rc.5`. The DSH launcher supplies the compatible Host and browser services through its maintained profile fallback; the peer entries remain optional to package managers because a profile does not install a second copy of those in-box packages.
 
-## 安装
+## Installation
 
 Build and pack the plugin:
 
