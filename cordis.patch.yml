@@ -1,0 +1,6 @@
+- insert:
+    - id: session-reference
+      name: dsh-session-reference
+      config:
+        maxReferences: 3
+        maxReferenceBytes: 65536
